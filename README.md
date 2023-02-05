@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NeRo707</h1>
+<h1 align="center">Hi 👋, I'm NeRo</h1>
   <h3 align="center">Just a student who wants to learn programming</h3>
   <p align="center">Interested in JavaScript/TypeScript, React, NodeJS, Back-End, Front-End, ...</p>
   <img align="right" src="https://count.chiya.dev/get/@:nero707" alt=":nero707" />
