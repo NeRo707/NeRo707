@@ -1,14 +1,14 @@
-<div style="display: flex; flex-direction: column; width: 100vw; text-align: center">
+<div style="display: flex; align-items: center; justify-content: center; height: 100vh">
   <div>
-    <img src="https://count.chiya.dev/get/@:NeRo707" alt=":NeRo707" />
+    <img style="height: auto; width: 55%;" src="https://count.chiya.dev/get/@:NeRo" alt=":NeRo" />
   </div>
   <div>
-    <img src="https://streak-stats.demolab.com?user=NeRo707&theme=radical" alt="GitHub Streak">
+    <img style="height: auto; width: 55%;" src="https://streak-stats.demolab.com?user=NeRo707&theme=radical" alt="GitHub Streak">
   </div>
   <div>
-    <img class="img" src="https://github-readme-stats.vercel.app/api?username=NeRo707&show_icons=true&theme=radical" />
+    <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
   </div>
   <div>
-    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeRo707&theme=radical&layout=compact" />
+    <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
   </div>
 </div>
