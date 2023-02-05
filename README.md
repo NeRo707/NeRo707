@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm NeRo707</h1>
   <h3 align="center">Just a student who wants to learn programming</h3>
   <p align="center">Interested in JavaScript/TypeScript, React, NodeJS, Back-End, Front-End, ...</p>
+  <img align="right" src="https://count.chiya.dev/get/@:nero707" alt=":nero707" />
   <p align="left">
     <img
       src="https://komarev.com/ghpvc/?username=nero707&label=Profile%20views&color=0e75b6&style=flat"
       alt="nero707"
+      target="_blank"
     />
   </p>
+  
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +37,7 @@
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img
+        style="background-color: white;"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
         alt="express"
         width="40"
@@ -111,23 +116,22 @@
 
   <p>
     <img
-      align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=nero707&theme=radical&show_icons=true&locale=en&layout=compact"
       alt="nero707"
-    />
+      align="left"
+      height="195vh"
+     />
   </p>
 
-  <p>
+  <p align="right">
     &nbsp;<img
-      align="center"
       src="https://github-readme-stats.vercel.app/api?username=nero707&theme=radical&show_icons=true&locale=en"
       alt="nero707"
     />
   </p>
 
-  <p>
+  <p align="center">
     <img
-      align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=nero707&theme=radical"
       alt="nero707"
     />
