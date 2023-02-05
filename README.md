@@ -119,13 +119,13 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=nero707&theme=radical&show_icons=true&locale=en&layout=compact"
       alt="nero707"
       align="left"
-      height="150"
+      height="160"
      />
     <img
       src="https://github-readme-stats.vercel.app/api?username=nero707&theme=radical&show_icons=true&locale=en"
       alt="nero707"
       align="right"
-      height="150"
+      height="160"
     />
   </p>
   <br>
