@@ -17,7 +17,7 @@
 <a href="https://instagram.com/tazo.gorgadze_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tazo.gorgadze_" height="30" width="40" /></a>
 </p>
 
-   <h3 align="left">Languages and Tools:</h3>
+   <h3 align="left">Languages & Tools:</h3>
   <p align="left">
     <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
