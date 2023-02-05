@@ -119,7 +119,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=nero707&theme=radical&show_icons=true&locale=en&layout=compact"
       alt="nero707"
       align="left"
-      height:"150vh"
+      height:"160vh"
      />
     <img
       src="https://github-readme-stats.vercel.app/api?username=nero707&theme=radical&show_icons=true&locale=en"
