@@ -122,7 +122,7 @@
       height="160"
      />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=nero707&theme=radical&show_icons=true&locale=en"
+      src="https://github-readme-stats-nero707.vercel.app/api?username=nero707&theme=radical&show_icons=true&locale=en"
       alt="nero707"
       align="right"
       height="160"
