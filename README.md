@@ -116,7 +116,7 @@
 
   <p>
     <img
-      src="https://github-readme-stats-nero707.vercel.app/api?username=nero707&theme=radical&show_icons=true&locale=en"
+      src="https://github-readme-stats-six-sepia-74.vercel.app/api?username=nero707&theme=radical&show_icons=true&locale=en"
       alt="nero707"
       align="left"
       height="160"
