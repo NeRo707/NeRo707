@@ -122,7 +122,7 @@
       height="160"
      />
     <img
-      src="https://github-readme-stats-six-sepia-74.vercel.app/api/top-langs/?username=nero707&theme=radical&show_icons=true&locale=en"
+      src="https://github-readme-stats-six-sepia-74.vercel.app/api/top-langs?username=nero707&theme=radical&show_icons=true&locale=en&layout=compact"
       alt="nero707"
       align="right"
       height="160"
