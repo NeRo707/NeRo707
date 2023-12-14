@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NeRo</h1>
   <h3 align="center">Just a CS Student who learns programming</h3>
-  <p align="center">Interested in JavaScript/TypeScript, React, NodeJS, Back/Front-End, ...</p>
+  <p align="center">Interested in JavaScript/TypeScript, NodeJS, Back/Front-End, ...</p>
   <img align="right" src="https://count.chiya.dev/get/@:nero707" alt=":nero707" />
   <p align="left">
     <img
