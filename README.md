@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=NeRo707&icon=10&color=12)](https://visitcount.itsvg.in)
 # Hi👋, I'm NeRo: 
-
-Just a CS Student who learns programming<br>Interested in JavaScript/TypeScript, NodeJS, Back/Front-End, ...
+<h4>Just a CS Student who learns programming</h4>
+<p>Interested in JavaScript/TypeScript, NodeJS, Back/Front-End, ...</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NeRo0111) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nerro_707) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamazi-gorgadze-b8ba76187) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nero.mx) 
