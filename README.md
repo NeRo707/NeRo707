@@ -18,7 +18,7 @@
 </div>
 
 ### ✍️ Random Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=Architect&quoteType=quote-for-the-day)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=Architect&quoteType=random)
 
 <!-- ### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=NeRo707&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
