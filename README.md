@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=NeRo707&icon=10&color=12)](https://visitcount.itsvg.in)
-# Hi👋, I'm NeRo: 
+# Hi👋, I'm NeRo 
 <h4>Just a CS Student who learns programming</h4>
 <p>Interested in C#, JavaScript/TypeScript, NodeJS, Back-End/Front-End, ...</p>
 
