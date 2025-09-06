@@ -39,7 +39,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![PayloadCMS](https://img.shields.io/badge/PayloadCMS-black.svg?style=for-the-badge&logo=PayloadCMS&logoColor=white)
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeRo707&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="40%">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NeRo707&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="40%"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeRo707&theme=radical&hide_border=true" width="44%">
 </div>
 <div align="center">
