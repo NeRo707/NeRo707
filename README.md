@@ -1,12 +1,52 @@
-[![](https://visitcount.itsvg.in/api?id=NeRo707&icon=10&color=12)](https://visitcount.itsvg.in)
-# Hi👋, I'm NeRo 
-<h4>Just a CS Student who learns programming</h4>
-<p>Interested in JavaScript/TypeScript, NodeJS, C#, Back-End/Front-End, ...</p>
+<h1 align="center">🚀👾 NeRo (@NeRo707)</h1>
+<h2 align="center"> <p>CS Student & Web Developer</p></h2>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NeRo0111) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nerro_707) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamazi-gorgadze-b8ba76187) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nero.mx) 
+<h3 align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1200&center=true&vCenter=true&width=640&duration=4000&color=70A5FD&background=0D1117&lines=Idea+%E2%80%A2+Design+%E2%80%A2+Code+%E2%80%A2+Release+%E2%80%A2+Repeat;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+C%23;Building+the+Web%2C+One+Line+at+a+Time;React+%E2%80%A2+Node.js+%E2%80%A2+.NET;" alt="typing"/>
+</p>
+</h3>
 
-# 💻 Experience:
+<h4>
+<p align="center">
+  <a href="https://facebook.com/NeRo0111" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="width:150px;height:40px;"/>
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/nerro_707" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="width:150px;height:41px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tamazi-gorgadze-nero7x7/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="width:150px;height:41px;"/>
+  </a>
+</p>
+</h4>
+
+<!-- <hr/>
+
+<h2 align="center"><p>⚡Highlights</p></h2>
+
+<h3 align="center">💻 <b>Web Developer</b> — Passionate about building modern web applications with JavaScript/TypeScript</h3>
+<h3 align="center">🎓 <b>Computer Science Student</b> — Constantly learning and exploring new technologies</h3>
+<h3 align="center">🚀 <b>React Enthusiast</b> — Crafting beautiful, responsive user interfaces with modern frameworks</h3>
+<h3 align="center">⚙️ <b>Back-End Developer</b> — Building robust APIs with Node.js, Express, NestJS, and .NET</h3>
+<h3 align="center">🎨 <b>UI/UX Focused</b> — Bridging design and development with Figma, Tailwind, and modern tools</h3> -->
+
+<hr/>
+
+<h2 align="center"><p>🧠 Stack</p></h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,python,php,react,nextjs,redux,vite,webpack,nodejs,express,nestjs,dotnet,prisma,postgres,mysql,mongodb,sqlite,firebase,supabase,appwrite,tailwind,sass,npm,pnpm,bun,docker,nginx,git,github,vercel,netlify,figma,ps,blender,postman,threejs,wordpress,ai&perline=12&theme=dark" />
+</p>
+
+
+
+<details align="center">
+  <summary><b>🛠 Tech Stack & Expertise</b></summary>
+  <div align="left">
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -40,22 +80,46 @@
 
 ### Other
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![PayloadCMS](https://img.shields.io/badge/PayloadCMS-black.svg?style=for-the-badge&logo=PayloadCMS&logoColor=white)
-# 📊 GitHub Stats:
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NeRo707&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="40%"> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeRo707&theme=radical&hide_border=true" width="44%">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeRo707&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%">
-</div>
 
-### ✍️ Random Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=synthwave&animation=default&layout=default&font=Architect&quoteType=random&bgColor=black&fontColor=white)
+  </div>
+</details>
 
-<!-- ### 🔝 Top Contributed Repo -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=NeRo707&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
+<hr/>
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tazonero) 
+<h2 align="center"><p>📈 Activity</p></h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeRo707&theme=radical&hide_border=true" width="98%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeRo707&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="98%"/> 
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NeRo707&theme=radical&no-frame=true&margin-w=3&margin-h=5&column=3" width="98%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeRo707&theme=github-compact&hide_border=true&area=true&custom_title=NeRo%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=synthwave&animation=default&layout=default&font=Architect&quoteType=random&bgColor=black&fontColor=white" />
+</p>
+
+<!-- <hr/>
+
+<h2 align="center"><p>💰 Support My Work</p></h2>
+
+<p align="center">
+  <a href="https://paypal.me/tazonero" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" style="width:200px;height:50px;"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=NeRo707&icon=10&color=12" />
+</p> -->
