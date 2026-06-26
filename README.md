@@ -62,7 +62,7 @@
 
 
 <details align="center">
-  <summary><b>🛠 Tech Stack & Expertise</b></summary>
+  <summary><b>🛠 Tech Stack & Expertise Details</b></summary>
   <div align="left">
 
 ### Languages
