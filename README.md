@@ -1,5 +1,15 @@
 <h1 align="center">🚀👾 NeRo (@NeRo707)</h1>
-<h2 align="center"> <p>CS Student & Web Developer</p></h2>
+<h3 align="center">
+  <strong>Web Developer</strong>
+</h3>
+
+<p align="center">
+  +
+</p>
+
+<p align="center">
+  <small>Exploring Game Development • Unity • C#</small>
+</p>
 
 <h3 align="center">
   <p align="center">
