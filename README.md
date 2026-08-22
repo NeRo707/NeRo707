@@ -1,4 +1,4 @@
-<h1 align="center">🚀👾 NeRo (@NeRo707)</h1>
+<h1 align="center">👾 NeRo</h1>
 <h3 align="center">
   <strong>Web Developer</strong>
 </h3>
@@ -45,25 +45,34 @@
 
 <hr/>
 
-<h2 align="center"><p>🧠 Stack</p></h2>
+<h2 align="center"><p>Experience</p></h2>
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,php,cpp,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img width="120" src="https://skillicons.dev/icons?i=ts,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" />
+  <br/>
+  <img width="120" src="https://skillicons.dev/icons?i=cpp,rust,java,python&theme=dark" />
   <br/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,vite,webpack,threejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" />
+  <img width="120" src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=redux,vite,webpack,threejs&theme=dark" />
+  
   <br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <img width="120" src="https://skillicons.dev/icons?i=nestjs,dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity&theme=dark" />
   <br/>
   <!-- Database / BaaS -->
   <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb,sqlite,firebase,supabase,appwrite&theme=dark" />
   <br/>
-  <!-- Styling & Package Managers -->
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,npm,pnpm,bun&theme=dark" />
+  <!-- Package Managers -->
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,bun&theme=dark" />
   <br/>
   <!-- DevOps / Deploy -->
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" />
   <br/>
   <!-- Design / Creative & Other -->
   <img src="https://skillicons.dev/icons?i=figma,ps,blender,postman,wordpress&theme=dark" />
@@ -81,7 +90,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-222C37.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Client-side
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
