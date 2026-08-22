@@ -151,15 +151,7 @@
 <h2 align="center"><p>📈 Activity</p></h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeRo707&theme=radical&hide_border=true" width="98%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeRo707&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="98%"/> 
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NeRo707&theme=radical&no-frame=true&margin-w=3&margin-h=5&column=3" width="98%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeRo707&theme=nightowl&hide_border=true" width="98%"/>
 </p>
 
 <p align="center">
