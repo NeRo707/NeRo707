@@ -45,7 +45,7 @@
 
 <hr/>
 
-<h2 align="center"><p>Experience</p></h2>
+<h2 align="center"><p>Experiences</p></h2>
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js&theme=dark" />
@@ -80,7 +80,7 @@
 
 
 
-<details align="center">
+<!-- <details align="center">
   <summary><b>🛠 Tech Stack & Expertise Details</b></summary>
   <div align="left">
 
@@ -144,7 +144,7 @@
 ![PayloadCMS](https://img.shields.io/badge/PayloadCMS-black.svg?style=for-the-badge&logo=PayloadCMS&logoColor=white)
 
   </div>
-</details>
+</details> -->
 
 <hr/>
 
