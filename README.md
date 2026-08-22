@@ -1,4 +1,4 @@
-<h1 align="center">👾 NeRo</h1>
+<h1 align="center">👾 Hi I'm NeRo</h1>
 <h3 align="center">
   <strong>Web Developer</strong>
 </h3>
