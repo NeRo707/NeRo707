@@ -79,7 +79,6 @@
 </p>
 
 
-
 <!-- <details align="center">
   <summary><b>🛠 Tech Stack & Expertise Details</b></summary>
   <div align="left">
