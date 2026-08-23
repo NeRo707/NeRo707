@@ -78,7 +78,6 @@
   <img src="https://skillicons.dev/icons?i=figma,ps,blender,postman,wordpress&theme=dark" />
 </p>
 
-
 <!-- <details align="center">
   <summary><b>🛠 Tech Stack & Expertise Details</b></summary>
   <div align="left">
