@@ -48,11 +48,11 @@
 <h2 align="center"><p>Experiences</p></h2>
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
-  <img width="120" src="https://skillicons.dev/icons?i=ts,cs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=php&theme=dark" />
-  <br/>
-  <img width="120" src="https://skillicons.dev/icons?i=cpp,rust,java,python&theme=dark" />
+  <!-- <img src="https://skillicons.dev/icons?i=js&theme=dark" /> -->
+  <img width="200" src="https://skillicons.dev/icons?i=js,ts,cs&theme=dark" />
+  <!-- <img src="https://skillicons.dev/icons?i=php&theme=dark" /> -->
+  <!-- <br/> -->
+  <!-- <img width="120" src="https://skillicons.dev/icons?i=cpp,rust,java,python&theme=dark" /> -->
   <br/>
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" />
